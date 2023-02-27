@@ -1,0 +1,12 @@
+renpy.ftl
+>>>>>>> 0f96cb5896304e9e2f055e4fc45324669e9e6267
+=======
+renpy.dissolve renpy.dissolve
+renpy.dissolve renpy.geometry
+renpy.solid
+renpy.geometry renpy.texture
+renpy.geometry renpy.solid
+renpy.texture
+<<<<<<< HEAD
+renpy.alpha renpy.geometry renpy.texture
+renpy.alpha renpy.texture

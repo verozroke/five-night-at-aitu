@@ -1,0 +1,25 @@
+image loc_cafeteria = ("bg/cafeteria.png")
+image loc_corridor = ("bg/corridor.png")
+image loc_hall = ("bg/hall.png")
+image loc_mega_route = ("bg/mega_route.png")
+image loc_open_space = ("bg/open_space.png")
+image loc_wake_up = ("bg/wake_up.png")
+image loc_route_from_home = ("bg/route_from_home.png")
+image loc_house = ("bg/gg_home.png")
+image loc_shower = ("bg/gg_shower.png")
+image loc_nigger = ("bg/nigger.png")
+image loc_ict_cab = ("bg/ict_cab.png")
+image tr = ("bg/trans.png")
+image mm = ("bg/gg_mind.png")
+image moodle_ict = ("bg/moodle_ict.png")
+image grade_bad = ("bg/grade_bad.png")
+image grade_good = ("bg/grade_good.png")
+
+
+# TRANSITIONS 
+
+image tr_day1 = ("days/day_1.jpg")
+image tr_day2 = ("days/day_2.jpg")
+image tr_day3 = ("days/day_3.jpg")
+image tr_day4 = ("days/day_4.jpg")
+image tr_day5 = ("days/day_5.jpg")
